@@ -1,5 +1,5 @@
 const palavra = "O que a vida quer da gente é coragem.";
-const vogais = "a e i o u A E I O U";
+const vogais = "aeiouAEIOUéÉãÃ";
 const ultimaPosicaoPalavra = palavra.length -1;
 
 let i = 0;
